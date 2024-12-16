@@ -1,0 +1,145 @@
+body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.card1 {
+  border-radius: 20px;
+  background: whitesmoke;
+  margin: 0px 36px;
+}
+.four-cards {
+  margin: 70px 0px;
+}
+.lotofbuttons {
+  margin: 0px 0px 0px 20px;
+}
+
+.images .image1 {
+  background-image: url(pic/rectangle1.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 308px;
+  height: 1080px;
+}
+.images .image1 .dark {
+  background-image: url(pic/dark1.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 308px;
+  height: 1080px;
+  opacity: 0.7;
+}
+.images .image1 h3 {
+  margin-top: 1000px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: large;
+}
+
+.images .image2 {
+  background-image: url(pic/rectangle2.jpg);
+  background-size: cover;
+  width: 307px;
+  height: 1080px;
+}
+.images .image2 h3 {
+  margin-top: 1000px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: large;
+}
+.images .image3 {
+  background-image: url(pic/rectangle3.jpg);
+  background-size: cover;
+  width: 1305px;
+  height: 1080px;
+  color: white;
+  padding-left: 20px;
+  font-weight: 600;
+}
+.images .image3 h3 {
+  font-weight: 700;
+  font-size: large;
+  margin: 20px 5px 0px 20px;
+}
+.images .image3 div .span1 {
+  border-radius: 10px;
+  margin: 1px 5px;
+  border: 1px solid white;
+  padding: 3px;
+}
+.Bandra-card {
+  display: flex;
+  justify-content: space-between;
+}
+.Bandra-card .house1 {
+  background-image: url(pic/bridge.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 553px;
+  height: 413px;
+  color: white;
+  margin-left: -100px;
+  border-radius: 10%;
+}
+.Bandra-card .house1 h3,
+p {
+  margin-right: 100px;
+  text-align: center;
+}
+.Bandra-card .house1 h3 {
+  margin-top: 340px;
+}
+.Bandra-card .house2 {
+  background-image: url(pic/bridge.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 741px;
+  height: 553px;
+  color: white;
+  border-radius: 10%;
+}
+.Bandra-card .house2 h3,
+p {
+  margin-left: 50px;
+  text-align: left;
+}
+.Bandra-card .house2 h3 {
+  margin-top: 420px;
+}
+.Bandra-card .house3 {
+  background-image: url(pic/bridge.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 553px;
+  height: 413px;
+  color: white;
+  margin-right: -100px;
+  border-radius: 10%;
+}
+.Bandra-card .house3 h3,
+p {
+  text-align: left;
+  margin-left: 50px;
+}
+.Bandra-card .house3 h3 {
+  margin-top: 340px;
+}
+.form {
+  background-image: url(pic/form.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 1921px;
+  height: 1080px;
+}
+.form .page {
+  background-image: url(pic/dark.jpg);
+  background-size: cover;
+  width: 700px;
+  height: 1080px;
+  color: white;
+  text-align: left;
+  padding: 20px 0px 0px 20px;
+}
